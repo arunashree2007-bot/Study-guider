@@ -3,7 +3,6 @@
     margin : 15px;
     width :100%;
     gap :15px;
-    /* background-color: aquamarine; */
     color: blue;
  }
    #TaskButton{
@@ -20,24 +19,6 @@
     border-style: solid;
     margin-bottom: 30px;
  }
- /* #TaskPara p{
-
-    border-radius: 10px;
-    font-size : 18px;    
-    padding : 5px;
-    width :70%;
-    display: inline-block;
-    /* background-color: aqua; */
-  */
-  /* #TaskPara button{
-    margin:0;
-    border-radius: 10px;
-    border-style: none ;
-    width : 50px;
-    justify-content: space-between;
-    /* gap: 15px; */
-    /* padding : 5px; */
-    */
   #TaskPara1{
       margin-top: 30px;
 
